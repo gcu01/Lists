@@ -1,8 +1,6 @@
-
-use linked_lists::first::List;
+mod first;
 
 fn main() {
 
-    let a:List = List::new();
-    println!("{:?}", a);
+
 }
